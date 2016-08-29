@@ -1,0 +1,27 @@
+{
+  "name": "firebase-uid-v3",
+  "description": "element using firebase v3",
+  "main": "firebase-uid-v3.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "polymerfire": "firebase/polymerfire#^0.9.5",
+    "auth0-element": "^0.0.2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/johnlim/firebase-uid-v3",
+  "_release": "c54e2c5a97",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c54e2c5a97069cce4227a5f5a013f0be3a24923c"
+  },
+  "_source": "git://github.com/johnlim/firebase-uid-v3.git",
+  "_target": "master",
+  "_originalSource": "johnlim/firebase-uid-v3",
+  "_direct": true
+}
